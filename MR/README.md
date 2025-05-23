@@ -1,1 +1,1 @@
-This folder contains the R script used for the MR analysis.
+This folder contains the R script used for the Mendelian Randomization (MR) analysis.
